@@ -1,9 +1,6 @@
 import 'package:animation_app/src/core/enums/login_states_enum.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'package:flutter/src/foundation/key.dart';
-import 'package:flutter/src/widgets/container.dart';
-import 'package:flutter/src/widgets/framework.dart';
 import 'package:rive/rive.dart';
 
 class LoginScreen extends StatefulWidget {
